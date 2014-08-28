@@ -1,0 +1,19 @@
+{
+  "name": "indomitable",
+  "version": "0.0.1",
+  "description": "Indomitable is a module for helping you manage user passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timemachine3030/indomitable.git"
+  },
+  "author": "Daniel Lopretto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timemachine3030/indomitable/issues"
+  },
+  "homepage": "https://github.com/timemachine3030/indomitable"
+}
